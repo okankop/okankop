@@ -1,4 +1,4 @@
-### Hi there, I'm Okan [okankop.github.io](okankop.github.io) 👋
+### Hi there, I'm Okan [okankop.github.io](https://okankop.github.io/) 👋
 ---
 I'm a PhD Student at Technical University of Munich! I am supervised by Prof. Gerhard Rigoll. Before that, I received my Master's degree in Electrical Engineering from Technical University of Munich and my Bachelor's degree from Boğaziçi University in 2017 and 2014, respectively.
 
