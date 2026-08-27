@@ -5,6 +5,6 @@ I'm a PhD Student at Technical University of Munich! I am supervised by Prof. Ge
 My research interests lie in computer vision, deep learning, and their applications. Specifically on tasks related to video understanding, gesture recognition and action localization.
 
 ---
-[![Okan's github stats](https://github-readme-stats.vercel.app/api?username=okankop&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Okan's github stats](https://github-stats-extended.vercel.app/api?username=okankop&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
